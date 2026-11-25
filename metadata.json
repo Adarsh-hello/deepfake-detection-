@@ -1,0 +1,8 @@
+{
+  "name": "SpectraTrace",
+  "description": "Research-grade AI deepfake detection platform with intelligent model selection, frequency-domain forensics, and explainable visual heatmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
